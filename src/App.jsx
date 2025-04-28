@@ -1,4 +1,5 @@
 import { Router } from "react-router-dom";
+import "./App.CSS";
 import "./CSS/App.css";
 import Favorites from "./pages/Favorites";
 import Home from "./pages/Home";
@@ -20,3 +21,4 @@ function App() {
 }
 
 export default App;
+
